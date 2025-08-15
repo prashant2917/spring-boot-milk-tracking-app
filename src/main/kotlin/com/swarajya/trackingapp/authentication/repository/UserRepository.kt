@@ -1,6 +1,6 @@
-package com.swarajya.milk_tracking_app.authentication.repository
+package com.swarajya.trackingapp.authentication.repository
 
-import com.swarajya.milk_tracking_app.authentication.entity.AppUserEntity
+import com.swarajya.trackingapp.authentication.entity.AppUserEntity
 import org.springframework.data.jpa.repository.JpaRepository
 import org.springframework.stereotype.Repository
 

@@ -1,7 +1,7 @@
-package com.swarajya.milk_tracking_app.controller
+package com.swarajya.trackingapp.controller
 
-import com.swarajya.milk_tracking_app.core.model.ApiResponse
-import com.swarajya.milk_tracking_app.core.model.ApiStatus
+import com.swarajya.trackingapp.core.model.ApiResponse
+import com.swarajya.trackingapp.core.model.ApiStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.RestController

@@ -1,9 +1,8 @@
-package com.swarajya.milk_tracking_app.authentication.controller
+package com.swarajya.trackingapp.authentication.controller
 
-import com.swarajya.milk_tracking_app.authentication.model.LoginUserResponse
-import com.swarajya.milk_tracking_app.authentication.model.UserResponse
-import com.swarajya.milk_tracking_app.authentication.service.AuthService
-import com.swarajya.milk_tracking_app.core.model.ApiResponse
+import com.swarajya.trackingapp.authentication.model.UserResponse
+import com.swarajya.trackingapp.authentication.service.AuthService
+import com.swarajya.trackingapp.core.model.ApiResponse
 import org.springframework.http.ResponseEntity
 import org.springframework.web.bind.annotation.PostMapping
 import org.springframework.web.bind.annotation.RequestBody

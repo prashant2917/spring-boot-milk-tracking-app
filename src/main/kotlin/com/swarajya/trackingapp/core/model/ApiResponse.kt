@@ -1,4 +1,4 @@
-package com.swarajya.milk_tracking_app.core.model
+package com.swarajya.trackingapp.core.model
 
 data class ApiResponse<T>(
     val statusCode: Int,

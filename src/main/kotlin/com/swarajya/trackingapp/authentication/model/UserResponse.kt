@@ -1,8 +1,8 @@
-package com.swarajya.milk_tracking_app.authentication.model
+package com.swarajya.trackingapp.authentication.model
 
-import com.swarajya.milk_tracking_app.core.model.ApiResponse
-import com.swarajya.milk_tracking_app.core.model.ApiStatus
-import com.swarajya.milk_tracking_app.utils.AppConstants
+import com.swarajya.trackingapp.core.model.ApiResponse
+import com.swarajya.trackingapp.core.model.ApiStatus
+import com.swarajya.trackingapp.utils.AppConstants
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 

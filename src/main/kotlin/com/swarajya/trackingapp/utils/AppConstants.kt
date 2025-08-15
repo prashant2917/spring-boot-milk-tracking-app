@@ -1,4 +1,4 @@
-package com.swarajya.milk_tracking_app.utils
+package com.swarajya.trackingapp.utils
 
 object AppConstants {
 

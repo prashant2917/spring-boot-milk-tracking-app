@@ -1,14 +1,14 @@
-package com.swarajya.milk_tracking_app.authentication.service
+package com.swarajya.trackingapp.authentication.service
 
-import com.swarajya.milk_tracking_app.authentication.entity.AppUserEntity
-import com.swarajya.milk_tracking_app.authentication.model.LoginUserResponse
-import com.swarajya.milk_tracking_app.authentication.model.UserResponse
-import com.swarajya.milk_tracking_app.authentication.model.invalidCredentialsResponse
-import com.swarajya.milk_tracking_app.authentication.repository.UserRepository
-import com.swarajya.milk_tracking_app.core.model.ApiResponse
-import com.swarajya.milk_tracking_app.core.model.ApiStatus
-import com.swarajya.milk_tracking_app.utils.AppConstants
-import com.swarajya.milk_tracking_app.utils.JWtUtils
+import com.swarajya.trackingapp.authentication.entity.AppUserEntity
+import com.swarajya.trackingapp.authentication.model.LoginUserResponse
+import com.swarajya.trackingapp.authentication.model.UserResponse
+import com.swarajya.trackingapp.authentication.model.invalidCredentialsResponse
+import com.swarajya.trackingapp.authentication.repository.UserRepository
+import com.swarajya.trackingapp.core.model.ApiResponse
+import com.swarajya.trackingapp.core.model.ApiStatus
+import com.swarajya.trackingapp.utils.AppConstants
+import com.swarajya.trackingapp.utils.JWtUtils
 import org.springframework.http.HttpStatus
 import org.springframework.http.ResponseEntity
 import org.springframework.security.crypto.password.PasswordEncoder

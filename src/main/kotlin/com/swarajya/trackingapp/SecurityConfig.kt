@@ -1,4 +1,4 @@
-package com.swarajya.milk_tracking_app
+package com.swarajya.trackingapp
 
 import org.springframework.context.annotation.Bean
 import org.springframework.context.annotation.Configuration

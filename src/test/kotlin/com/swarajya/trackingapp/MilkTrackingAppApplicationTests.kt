@@ -1,4 +1,4 @@
-package com.swarajya.milk_tracking_app
+package com.swarajya.trackingapp
 
 import org.junit.jupiter.api.Test
 import org.springframework.boot.test.context.SpringBootTest

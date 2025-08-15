@@ -1,4 +1,4 @@
-package com.swarajya.milk_tracking_app.authentication.entity
+package com.swarajya.trackingapp.authentication.entity
 
 import jakarta.persistence.*
 
